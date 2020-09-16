@@ -1,0 +1,1 @@
+GitHubCalendar(".calendar", "RMK1775", { responsive: true });
