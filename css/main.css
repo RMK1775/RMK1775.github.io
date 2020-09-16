@@ -8,5 +8,12 @@
 .jumbotron {
     font-family: 'Merriweather', serif;
     background-color: lightslategray;
-    max-height: 200px;
+    border-bottom-color: darkred;
+}
+
+body{
+    background-color: darkkhaki;
+}
+.calendar {
+    background:whitesmoke;
 }
